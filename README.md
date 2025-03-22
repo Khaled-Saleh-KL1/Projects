@@ -57,4 +57,3 @@ Welcome to my Projects Repository! This collection showcases my work in **Data S
 Feel free to reach out if you have any questions or feedback!  
 - **Email:** [khaledsalehkl1@gmail.com](mailto:khaledsalehkl1@gmail.com)  
 - **LinkedIn:** [Khaled Saleh](https://www.linkedin.com/in/khaled-saleh-703748269/)  
-- **GitHub:** [Khaled Saleh]([Khaled-Saleh-KL1](https://github.com/Khaled-Saleh-KL1))  
