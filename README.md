@@ -55,6 +55,6 @@ Welcome to my Projects Repository! This collection showcases my work in **Data S
 
 ## Contact
 Feel free to reach out if you have any questions or feedback!  
-- **Email:** [mohanadassaf01@gmail.com](mailto:mohanadassaf01@gmail.com)  
-- **LinkedIn:** [Mohanad Assaf](https://www.linkedin.com/in/mohanad-assaf-33843a1b4/)  
-- **GitHub:** [kabuto1012](https://github.com/kabuto1012)  
+- **Email:** [khaledsalehkl1@gmail.com](mailto:khaledsalehkl1@gmail.com)  
+- **LinkedIn:** [Khaled Saleh](https://www.linkedin.com/in/khaled-saleh-703748269/)  
+- **GitHub:** [Khaled Saleh]([Khaled-Saleh-KL1](https://github.com/Khaled-Saleh-KL1))  
